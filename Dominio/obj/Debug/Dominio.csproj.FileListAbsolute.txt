@@ -1,0 +1,6 @@
+C:\Users\azaaf\Desktop\C# nivel 2\winForms\POKEMON\Dominio\bin\Debug\Dominio.dll
+C:\Users\azaaf\Desktop\C# nivel 2\winForms\POKEMON\Dominio\bin\Debug\Dominio.pdb
+C:\Users\azaaf\Desktop\C# nivel 2\winForms\POKEMON\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\azaaf\Desktop\C# nivel 2\winForms\POKEMON\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\azaaf\Desktop\C# nivel 2\winForms\POKEMON\Dominio\obj\Debug\Dominio.dll
+C:\Users\azaaf\Desktop\C# nivel 2\winForms\POKEMON\Dominio\obj\Debug\Dominio.pdb
