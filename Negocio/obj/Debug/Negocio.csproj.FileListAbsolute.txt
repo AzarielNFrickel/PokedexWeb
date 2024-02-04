@@ -7,3 +7,12 @@ C:\Users\azaaf\Desktop\C# nivel 2\winForms\POKEMON\Negocio\obj\Debug\Negocio.csp
 C:\Users\azaaf\Desktop\C# nivel 2\winForms\POKEMON\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\azaaf\Desktop\C# nivel 2\winForms\POKEMON\Negocio\obj\Debug\Negocio.dll
 C:\Users\azaaf\Desktop\C# nivel 2\winForms\POKEMON\Negocio\obj\Debug\Negocio.pdb
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\Negocio\bin\Debug\Negocio.dll
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\Negocio\bin\Debug\Dominio.dll
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\Negocio\bin\Debug\Dominio.pdb
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\Negocio\obj\Debug\Negocio.dll
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\Negocio\obj\Debug\Negocio.pdb

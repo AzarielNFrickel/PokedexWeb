@@ -57,3 +57,7 @@ C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\PokedexWeb0.1\obj\Debug\PokedexW
 C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\PokedexWeb0.1\obj\Debug\PokedexWeb0.1.csproj.CopyComplete
 C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\PokedexWeb0.1\obj\Debug\PokedexWeb0.1.dll
 C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\PokedexWeb0.1\obj\Debug\PokedexWeb0.1.pdb
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\PokedexWeb0.1\bin\Dominio.dll
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\PokedexWeb0.1\bin\Negocio.dll
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\PokedexWeb0.1\bin\Dominio.pdb
+C:\Users\azaaf\Desktop\PokedexWeb\PokedexWeb0.1\PokedexWeb0.1\bin\Negocio.pdb
